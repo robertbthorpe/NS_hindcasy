@@ -1,0 +1,3 @@
+README
+Project with code etc for the North Sea hindcast 1880-2020ish for 21 stocks.
+Hindcasts are generated using mixed fishery forecasts and modified using EcoEnsemble to make 4000 member hindcasts covering 21 North Sea stocks.
